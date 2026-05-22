@@ -1,6 +1,6 @@
 # App Banco (miku destyoyer bank)
 
-Aplicación bancaria desarrollada en Flutter que permite realizar operaciones básicas como depósitos, retiros y consulta de historial de movimientos mediante una interfaz moderna y organizada.
+Aplicación bancaria desarrollada en Flutter que permite realizar operaciones básicas como depósitos, retiros y consulta de historial de movimientos mediante una interfaz moderna y organizada, enfocada en personas que aún no cumplen con la mayoría de edad, para que puedan acostumbrarse al uso de una banca móvil.
 
 ---
 
@@ -27,19 +27,20 @@ lib/
 ├── services/      # Servicios y lógica
 ├── utils/         # Utilidades y constantes
 └── widgets/       # Widgets reutilizables
+└── main.dart      
 ```
 
 ---
 
 ## Instalación
-
+  primero tod estos comandos que se mostraran se haran en la terminal(tanto como la de tu dispositivo la que ofrece visual studio code)
 ### 1. Clonar el repositorio
 
 ```bash
 git clone (https://github.com/angelpablo468/banco_vmvr_aevl.git)
 ```
 
-### 2. Entrar a la carpeta del proyecto
+### 2. Entrar a la carpeta del proyecto(en caso de no tener crearla) 
 
 ```bash
 cd banco
@@ -70,11 +71,12 @@ flutter run
 
 ## Uso de la aplicación
 
-1. Iniciar sesión.
+1. Iniciar sesión y crear cuenta.
 2. Acceder al menú principal.
 3. Realizar depósitos o retiros.
-4. Consultar el historial de movimientos.
-5. Modificar opciones desde ajustes.
+4. transferencia entre cuentas que se almacenan dentro de la misma app
+5. Consultar el historial de movimientos.
+6. Modificar opciones desde ajustes(ocultar saldo, modo oscuro llamar soprto  y cerrar seccion).
 
 ---
 
