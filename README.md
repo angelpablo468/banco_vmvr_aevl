@@ -36,13 +36,13 @@ lib/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone LINK_DE_TU_REPOSITORIO
+git clone (https://github.com/angelpablo468/banco_vmvr_aevl.git)
 ```
 
 ### 2. Entrar a la carpeta del proyecto
 
 ```bash
-cd nombre_del_proyecto
+cd banco
 ```
 
 ### 3. Instalar dependencias
