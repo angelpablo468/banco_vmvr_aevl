@@ -60,14 +60,7 @@ flutter run
 
 ---
 
-## Tecnologías utilizadas
 
-- Flutter
-- Dart
-- Provider
-- Material Design
-
----
 
 ## Uso de la aplicación
 
