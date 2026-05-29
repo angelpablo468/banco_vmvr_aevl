@@ -82,6 +82,6 @@ flutter run
 
 ## Autor
 
-Angel Vazquez
+Angel Eduardo Vazquez Lopez y Victor Manuel Vidal Resendiz
 
 Proyecto escolar desarrollado con Flutter.
